@@ -2,7 +2,7 @@
 仅支持CENTOS7
 web目录为云端验证文件，请自行搭建
 
-wget https://raw.githubusercontent.com/Steady-WJ/cdnfly-kaixin/main/web/web.tar.gz
+wget https://github.com/xiaolizi11191/cdnfly-kaixin/tree/main/web/web.tar.gz
 
 tar -zxvf web.tar.gz
 
